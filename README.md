@@ -11,6 +11,11 @@
 
 1. [Обзор систем ИТ-мониторинга](hw-01.md)
 
+![alt text](https://github.com/Redcorprus/8.1-IT-Monitoring/blob/main/img/img1.png)
+
+![alt text](https://github.com/Redcorprus/8.1-IT-Monitoring/blob/main/img/img2.png)
+
+
 2. [Система мониторинга Zabbix](hw-02.md)
 
 3. [Система мониторинга Zabbix. Часть 2](hw-03.md)
