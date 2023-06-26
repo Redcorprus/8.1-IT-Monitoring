@@ -54,14 +54,17 @@ systemctl enable zabbix-server
 #### Процесс выполнения:
 
 1. Установливаем репозиторий Zabbix
+
 wget https://repo.zabbix.com/zabbix/6.4/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb
 dpkg -i zabbix-release_6.4-1+ubuntu22.04_all.deb
 apt update 
 
 2. Установливаем Zabbix агент 
+
 apt install zabbix-agent
 
 3. Запускаем процесс Zabbix агента 
+
 systemctl restart zabbix-agent
 systemctl enable zabbix-agent
 
