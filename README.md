@@ -110,5 +110,33 @@ systemctl enable zabbix-agent
 
 
 4. [Система мониторинга Prometheus](hw-04.md)
+### Задание 1
+Установите Prometheus.
+
+#### Результат:
+
+![alt text](https://github.com/Redcorprus/8.1-IT-Monitoring/blob/main/img/img9.png)
+
+
+### Задание 2
+Установите Node Exporter.
+
+#### Результат:
+
+![alt text](https://github.com/Redcorprus/8.1-IT-Monitoring/blob/main/img/img10.png)
+
+### Задание 3
+Подключите Node Exporter к серверу Prometheus.
+
+#### Результат:
+
+конфигурация:
+
+![alt text](https://github.com/Redcorprus/8.1-IT-Monitoring/blob/main/img/img11.png)
+
+Targets:
+
+![alt text](https://github.com/Redcorprus/8.1-IT-Monitoring/blob/main/img/img12.png)
+
 
 5. [Система мониторинга Prometheus. Часть 2](hw-05.md)
