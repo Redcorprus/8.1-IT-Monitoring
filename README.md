@@ -75,6 +75,40 @@ systemctl enable zabbix-agent
 
 3. [Система мониторинга Zabbix. Часть 2](hw-03.md)
 
+### Задание 1
+ 
+Создайте свой шаблон, в котором будут элементы данных, мониторящие загрузку CPU и RAM хоста.
+
+#### Результат:
+
+![alt text](https://github.com/Redcorprus/8.1-IT-Monitoring/blob/main/img/img5.png)
+
+
+### Задание 2
+
+Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
+
+#### Результат:
+
+![alt text](https://github.com/Redcorprus/8.1-IT-Monitoring/blob/main/img/img6.png)
+
+### Задание 3
+
+Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
+
+#### Результат:
+
+![alt text](https://github.com/Redcorprus/8.1-IT-Monitoring/blob/main/img/img7.png)
+
+### Задание 4 
+
+Создайте свой кастомный дашборд.
+
+#### Результат:
+
+![alt text](https://github.com/Redcorprus/8.1-IT-Monitoring/blob/main/img/img8.png)
+
+
 4. [Система мониторинга Prometheus](hw-04.md)
 
 5. [Система мониторинга Prometheus. Часть 2](hw-05.md)
